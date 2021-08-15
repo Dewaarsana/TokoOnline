@@ -1,5 +1,5 @@
 .iniBanner {
-    background: url("/gambar/background1.jpg");
+    background: url("../gambar/background1.jpg");
     background-size: cover;
     display: flex;
     background-attachment: fixed;
@@ -15,7 +15,7 @@
     color: blue !important;
 }
 .inibackgroundsaya{
-    background: url("/gambar/background1.jpg");
+    background: url("../gambar/background1.jpg");
     background-size: cover;
     background-attachment: fixed;
 }
